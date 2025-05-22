@@ -44,7 +44,12 @@ Make sure to replace `"YOUR_API_KEY"` in the JavaScript file with your actual AP
 ## 📁 Project Structure
 
 ├── index.html # Main HTML file
+|
 ├── style.css # Styling
+|
 └── script.js # Weather logic and API interaction
-
+|
+└── 📁 assers 
+    └── images
+      
 
