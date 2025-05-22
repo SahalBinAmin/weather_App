@@ -7,7 +7,7 @@ A simple and interactive **Weather Application** built using fundamental concept
 ## 🔧 Technologies Used
 
 - **HTML5** – Structure and layout of the app
-- **CSS3** – Styling and responsive design
+- **CSS3** – Styling 
 - **JavaScript (Vanilla)** – API calls and dynamic content rendering
 
 ---
@@ -20,7 +20,6 @@ A simple and interactive **Weather Application** built using fundamental concept
   - Temperature (°C/°F)
   - Weather condition (e.g., Sunny, Rainy)
   - Humidity and wind speed
-- Responsive design for mobile and desktop
 - Error handling for invalid city names
 
 ---
