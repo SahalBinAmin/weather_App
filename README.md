@@ -1,6 +1,6 @@
 # 🌦️ Weather Application
 
-A simple and interactive **Weather Application** built using fundamental concepts of **HTML**, **CSS**, and **JavaScript**. This project fetches real-time weather data for any city using a weather API and displays key information like temperature, humidity, and weather conditions in a clean and responsive UI.
+A simple and interactive **Weather Application** built using fundamental concepts of **HTML**, **CSS**, and **JavaScript**. This project fetches real-time weather data for any city using a weather API and displays key information like temperature, humidity, and weather conditions over the UI.
 
 -----
 
